@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: bash
+Version: 0.0.1
+Summary: A module designed for running bash commands
+Home-page: UNKNOWN
+Author: zrcai
+Author-email: 1571301668@qq.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >3.6
